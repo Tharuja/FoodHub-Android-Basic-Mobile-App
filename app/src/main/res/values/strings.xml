@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OFD 2</string>
+    <string name="email">Username(tharuja)</string>
+    <string name="password">password(123456)</string>
+    <string name="online_food_delivery">Online Food Delivery</string>
+    <string name="sign_in">Sign In</string>
+    <string name="Amount_you_need">Amount you need(2)</string>
+    <string name="Your_mobile_number">Your mob no(123456)</string>
+    <string name="Your_location">Your location</string>
+</resources>
